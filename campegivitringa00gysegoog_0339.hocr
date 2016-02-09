@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./campegivitringa00gysegoog_0339.png"; bbox 0 0 3931 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1082 391 2287 578">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1082 391 2287 578">
+     <span class='ocr_line' id='line_1_1' title="bbox 1082 391 2287 578; baseline 0.009 -62.635"><span class='ocrx_word' id='word_1_1' title='bbox 1082 391 2287 578; x_wconf 66' lang='lat' dir='ltr'>1⁴‘ND&#39;E‘x¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 516 633 2858 1024">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 516 633 2858 1024">
+     <span class='ocr_line' id='line_1_2' title="bbox 516 633 2831 847; baseline 0.006 -66.548"><span class='ocrx_word' id='word_1_2' title='bbox 516 633 1186 785; x_wconf 80' lang='lat' dir='ltr'>Rerum</span> <span class='ocrx_word' id='word_1_3' title='bbox 1174 640 2297 847; x_wconf 70' lang='lat' dir='ltr'>Pr&#39;aecipua‘rum‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 2361 647 2831 813; x_wconf 70' lang='grc'>1106</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 519 818 2858 1024; baseline 0.006 -70"><span class='ocrx_word' id='word_1_5' title='bbox 519 890 531 901; x_wconf 92' lang='grc'>·</span> <span class='ocrx_word' id='word_1_6' title='bbox 689 853 784 940; x_wconf 85' lang='grc'>“.</span> <span class='ocrx_word' id='word_1_7' title='bbox 863 920 870 929; x_wconf 86' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 986 837 1478 1002; x_wconf 77' lang='lat' dir='ltr'><strong>Scrrth</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1510 875 2325 1021; x_wconf 73' lang='lat' dir='ltr'>contentarum</span> <span class='ocrx_word' id='word_1_10' title='bbox 2473 890 2510 1013; x_wconf 32' lang='lat' dir='ltr'>⁴·ss</span> <span class='ocrx_word' id='word_1_11' title='bbox 2768 818 2858 1024; x_wconf 53' lang='lat' dir='ltr'>j}</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
